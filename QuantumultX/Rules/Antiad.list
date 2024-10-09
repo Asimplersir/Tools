@@ -1,5 +1,5 @@
 # 规则名称: Antiad
-# 规则统计: 98307
+# 规则统计: 98319
 
 HOST-SUFFIX,000dn.com,Antiad
 HOST-SUFFIX,0013.cc,Antiad
@@ -12923,6 +12923,7 @@ HOST-SUFFIX,bhaoea.cn,Antiad
 HOST-SUFFIX,bharalhallahs.com,Antiad
 HOST-SUFFIX,bharsilked.com,Antiad
 HOST-SUFFIX,bhartianteact.com,Antiad
+HOST-SUFFIX,sentry.bhbapp.cn,Antiad
 HOST-SUFFIX,bhcont.com,Antiad
 HOST-SUFFIX,bhcostefja.com,Antiad
 HOST-SUFFIX,bhcumsc.com,Antiad
@@ -18173,6 +18174,7 @@ HOST-SUFFIX,x.china1715.com,Antiad
 HOST-SUFFIX,china99315.cn,Antiad
 HOST-SUFFIX,bdjsfl.chinabig.com.cn,Antiad
 HOST-SUFFIX,adsys.chinacloudapp.cn,Antiad
+HOST-SUFFIX,pcmactivity.chinacloudsites.cn,Antiad
 HOST-SUFFIX,chinacontraryintrepid.com,Antiad
 HOST-SUFFIX,sq1.chinacsky.com,Antiad
 HOST-SUFFIX,sq2.chinacsky.com,Antiad
@@ -35116,6 +35118,7 @@ HOST-SUFFIX,fztyrv.xyz,Antiad
 HOST-SUFFIX,zxr.fzxrjx.com,Antiad
 HOST-SUFFIX,e.fzyda.com,Antiad
 HOST-SUFFIX,m.fzyda.com,Antiad
+HOST-SUFFIX,simulatelab-datasink.fzzixun.com,Antiad
 HOST-SUFFIX,g--o.info,Antiad
 HOST-SUFFIX,g-content.bi,Antiad
 HOST-SUFFIX,smetrics.g-shock.com,Antiad
@@ -35707,6 +35710,9 @@ HOST-SUFFIX,smetrics.geeksquad.com,Antiad
 HOST-SUFFIX,geeksundigne.com,Antiad
 HOST-SUFFIX,link.sparrow.geekup.vn,Antiad
 HOST-SUFFIX,analytics.geekyminds.net,Antiad
+HOST-SUFFIX,cooper.geelark.cn,Antiad
+HOST-SUFFIX,datasink.geelark.cn,Antiad
+HOST-SUFFIX,datasink.geelark.com,Antiad
 HOST-SUFFIX,metrics.geelongadvertiser.com.au,Antiad
 HOST-SUFFIX,nsmetrics.geelongadvertiser.com.au,Antiad
 HOST-SUFFIX,geerairu.net,Antiad
@@ -51200,6 +51206,7 @@ HOST-SUFFIX,linkev.com,Antiad
 HOST-SUFFIX,linkexchange.com,Antiad
 HOST-SUFFIX,linkexchangers.net,Antiad
 HOST-SUFFIX,st.linkfire.com,Antiad
+HOST-SUFFIX,datasink.linkfox.com,Antiad
 HOST-SUFFIX,linkgrand.com,Antiad
 HOST-SUFFIX,linkhaitao.com,Antiad
 HOST-SUFFIX,linkifier.com,Antiad
@@ -54596,7 +54603,7 @@ HOST-SUFFIX,xiuxiu.android.dl.meitu.com,Antiad
 HOST-SUFFIX,report.meituan.com,Antiad
 HOST-SUFFIX,pubmsg.meituan.com,Antiad
 HOST-SUFFIX,analytics.meituan.net,Antiad
-HOST-SUFFIX,ata-sdk-uuid-report.dreport.meituan.net,Antiad
+HOST-SUFFIX,dreport.meituan.net,Antiad
 HOST-SUFFIX,xiuxiu.mobile.meitudata.com,Antiad
 HOST-SUFFIX,meitumq.com,Antiad
 HOST-SUFFIX,dc.meitustat.com,Antiad
@@ -82819,6 +82826,7 @@ HOST-SUFFIX,log.tpns.tencent.com,Antiad
 HOST-SUFFIX,ping.cloud.tencent.com,Antiad
 HOST-SUFFIX,sensors.cloud.tencent.com,Antiad
 HOST-SUFFIX,tpstelemetry.tencent.com,Antiad
+HOST-SUFFIX,report.meeting.tencent.com,Antiad
 HOST-SUFFIX,tencentmind.com,Antiad
 HOST-SUFFIX,ad.tencentmusic.com,Antiad
 HOST-SUFFIX,adcdn.tencentmusic.com,Antiad
@@ -96893,6 +96901,7 @@ HOST-SUFFIX,v1-ad.video.yximgs.com,Antiad
 HOST-SUFFIX,v2-ad.video.yximgs.com,Antiad
 HOST-SUFFIX,v3-ad.video.yximgs.com,Antiad
 HOST-SUFFIX,js-ad.a.yximgs.com,Antiad
+HOST-SUFFIX,tob-tracker.yximgs.com,Antiad
 HOST-SUFFIX,yxjnzydc.com,Antiad
 HOST-SUFFIX,yxkbgg.xyz,Antiad
 HOST-SUFFIX,yxkfaskdaybakf.com,Antiad
@@ -97567,6 +97576,9 @@ HOST-SUFFIX,m.zineworm.com,Antiad
 HOST-SUFFIX,bavvgo.zingat.com,Antiad
 HOST-SUFFIX,apps.zingeroo.com,Antiad
 HOST-SUFFIX,target.zinia.com,Antiad
+HOST-SUFFIX,datasink.ziniao.com,Antiad
+HOST-SUFFIX,logs-collect.ziniao.com,Antiad
+HOST-SUFFIX,test-cb-log.ziniao.com,Antiad
 HOST-SUFFIX,insights.zinio.com,Antiad
 HOST-SUFFIX,zinipx.xyz,Antiad
 HOST-SUFFIX,marketing.zinniawealth.com,Antiad
